@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include <cmath>
-// #include <eric.math.stat>
+// #include <eric.math.sta>
 
 using namespace std;
 
