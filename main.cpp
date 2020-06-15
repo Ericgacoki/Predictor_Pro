@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include <cmath>
-#inclu
+#includ
 
 using namespace std;
 
